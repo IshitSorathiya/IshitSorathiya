@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IshitSorathiya
-- 👀 I’m interested in Web Development,Web Designing
+- 👀 I’m interested in Web Development , Web Designing
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on any web development projects that help me grow
 - 📫 You can reach me on LinkedIn - https://www.linkedin.com/in/ishit-sorathiya-402bbb180/
